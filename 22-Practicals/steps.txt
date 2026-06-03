@@ -1,0 +1,10 @@
+Steps to perform linear regression:-
+
+1. Divide the features based on independent and dependent features
+2. Train test split of the dataset :- independent feature must be in 2d 
+3. Standardize the data:- z-score
+4. Training the model :- linear regression
+5. Performence Metrics
+6. residuals
+
+## Pickling :- any object in python can be pickeled so that it can be saved on disk.
